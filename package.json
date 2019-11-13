@@ -1,5 +1,5 @@
 {
-  "name": "clasp-post-json",
+  "name": "gas-post-json-app",
   "private": true,
   "main": "jsonPostApi.js",
   "dependencies": {
